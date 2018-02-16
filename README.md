@@ -7,7 +7,7 @@ automation to make life easier
 Clone this repo and add the folling line to your `.bash_profile`:
 
 ```
-export PATH="$HOME/dev/fsc-tools/bin:$PATH"
+export PATH="$HOME/path/to/this/repo/bin:$PATH"
 ```
 
 Done. :sunglasses:
