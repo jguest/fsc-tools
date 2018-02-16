@@ -1,6 +1,6 @@
 ## Future State Consulting Tools
 
-Automation to make life easier
+automation to make life easier
 
 ### Installation
 
